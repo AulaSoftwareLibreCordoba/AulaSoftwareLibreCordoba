@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://www.ceslopedevega.com/wp-content/uploads/2021/01/video-lope-poster-e1628786976272.jpg"  />
+  <img height="200" src="Aula_de_software_libre.png"  />
 </div>
 
 ###
