@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Somos el Aula de software libre de el Ces Lope de Vega... y venimos a darlo todo...</p>
+<p align="left">Somos el Aula de software libre de la FP de Córdoba... y venimos a darlo todo...</p>
 
 ###
 
