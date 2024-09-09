@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="30%" src="AULASOFTWARELIBRE.jpg"  />
+  <img height="300" width="35%" src="AULASOFTWARELIBRE.jpg"  />
 </div>
 
 ###
