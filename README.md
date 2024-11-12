@@ -4,13 +4,9 @@
 
 ###
 
-<h1 align="left">Hola 👋 Quienes somos?</h1>
+<h1 align="left">Bienvenido al Aula de Software Libre! 🙋🏻‍♂️</h1>
 
-###
-
-<p align="left">Somos el Aula de software libre de la FP de Córdoba... y venimos a darlo todo...</p>
-
-# 💫 About Me:
+# 💫 ¿Quiénes somos?
 ¡Hola! Somos un grupo de estudiantes del Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), apasionados por la tecnología y el software libre. Nos hemos unido para crear un aula dedicada al aprendizaje y la promoción de herramientas y aplicaciones de código abierto.
 
 Nuestro objetivo es fomentar un entorno colaborativo donde podamos desarrollar proyectos innovadores, compartir conocimientos y contribuir a la comunidad de software libre. Creemos que la tecnología debe ser accesible para todos, y estamos comprometidos a explorar y crear soluciones que impacten positivamente a nuestra sociedad.
@@ -18,7 +14,7 @@ Nuestro objetivo es fomentar un entorno colaborativo donde podamos desarrollar p
 ¡Únete a nosotros en esta emocionante aventura hacia un futuro más libre y colaborativo! 🧑🏻‍💻
 
 
-## 🌐 Socials:
+## 🌐 Redes sociales:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/invite/ha67Bar9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/company/aula-de-software-libre-lope-de-vega) 
 
 # 💻 Tech Stack:
